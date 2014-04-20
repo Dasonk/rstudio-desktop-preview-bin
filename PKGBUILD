@@ -2,7 +2,7 @@
 # Contributor: Meow < meow at linux dot cn >
 
 pkgname=rstudio-desktop-preview-bin
-pkgver=0.98.788
+pkgver=0.98.792
 pkgrel=1
 pkgdesc="A new integrated development environment (IDE) for R (The preview binary from the website)."
 arch=('x86_64') # May work for i686 but hasn't been tested
