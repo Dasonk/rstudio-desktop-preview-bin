@@ -12,8 +12,8 @@ depends=('r>=2.11.1' 'qtwebkit')
 conflicts=('rstudio-desktop' 'rstudio-desktop-git' 'rstudio-desktop-bin')
 provides=("rstudio-desktop=${pkgver}")
 options=(!strip)
-#_x86md5=be7da6269c6499770957f478f4eeaf2f
-_x64md5=db2fc2ce37dc4d16e12bc95c85eaa731
+#_x86md5=13afc95d4d28198a401863418b5b6113
+_x64md5=8e2c6a94bc79f8183600d5a480463f19
 case "$CARCH" in
 #	'i686')
 		#_arch=i386
